@@ -2,11 +2,15 @@
 
 ## Contacts
 
-:house: Reduta st. 33/24, Crakow, Poland
-:telephone_receiver:   +48-576-592-766
-:email: abrosimovairyna@gmail.com
-:link: https://github.com/delilah07
-:link: https://codepen.io/iryna-abrosimova
+**Adress:** Reduta st. 33/24, Crakow, Poland
+
+**Phone number:** +48-576-592-766
+
+**E-mail:** abrosimovairyna@gmail.com
+
+**Github:** https://github.com/delilah07
+
+**CodePen:** https://codepen.io/iryna-abrosimova
 
 ## About me
 
