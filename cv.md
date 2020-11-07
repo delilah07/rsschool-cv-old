@@ -54,6 +54,27 @@ RGB Game using JS
 I'm working with kharkiv digital agency 'Geniustudio'.
 My last works are:
 
+- https://geniustudio.net/services/landing-page-ppc-2-0/,
+  https://geniustudio.net/services/promo-i-korporativnye-sayty/,
+  https://geniustudio.net/services/sozdanie-internet-magazinov2/,
+  https://geniustudio.net/services/social-media-marketing2/,
+  https://geniustudio.net/services/shablonnye-resheniya2/,
+  https://geniustudio.net/services/razrabotka-proektov-po-vashey-biznes-idee2/,
+  https://geniustudio.net/services/reklama_facebook_instagramm_google/
+add 7 pages
+    - HTML
+    - CSS
+    - jQuery
+
+- https://coffeex.ru/
+redesing website coffice.ua for Russion market
+
+- https://coffice.ua/business/hotel/, https://coffice.ua/business/exhibition/,  https://coffice.ua/business/exhibition/
+add three pages 
+    - HTML
+    - CSS
+    - jQuery
+    
 - https://coffice.ua/basket/order/
 desktop and mob version
     - HTML
@@ -76,6 +97,10 @@ desktop version
 pop-up with vote
     - HTML
     - CSS
+    
+
+    
+-
 
 ## Education
 
